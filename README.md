@@ -17,6 +17,8 @@ git submodule add https://github.com/hakimel/reveal.js.git reveal.js
 
 ### Add `css/custom.css` and `index.html` files
 
+Update `<title></title>` to fit the presentation
+
 ### Add `slides.md`
 
 Push the file to GitHub and turn on GitHub Pages on master branch.
