@@ -15,7 +15,7 @@ cat .gitmodules
 git submodule add https://github.com/hakimel/reveal.js.git reveal.js
 ```
 
-### Add `css/custom.css`
+### Add `css/custom.css` and `index.html` files
 
 ### Add `slides.md`
 
