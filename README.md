@@ -20,4 +20,5 @@ git submodule add https://github.com/hakimel/reveal.js.git reveal.js
 ### Add `slides.md`
 
 Push the file to GitHub and turn on GitHub Pages on master branch.
-Go to url https://datachampcam.github.io/data-sharing/slides.html
+
+Go to url https://datachampcam.github.io/data-sharing/
