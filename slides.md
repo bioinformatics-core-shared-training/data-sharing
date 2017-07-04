@@ -1,7 +1,8 @@
 # Data Sharing Issues
 
-### Avoiding data disasters - Best practices in Research Data Management for the Biological Sciences
-### 12 July 2017
+Avoiding data disasters - Best practices in Research Data Management for the Biological Sciences
+
+12 July 2017
 
 ---
 
