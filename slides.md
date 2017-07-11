@@ -7,7 +7,7 @@ Avoiding data disasters - Best practices in Research Data Management for the Bio
 ---
 # Why sharing is important?
 
-![](images/sharing.png)
+![](images/sharing.png) <!-- .element height="60%" width="60%" -->
 
 ---
 # Some other very important reasons to share
