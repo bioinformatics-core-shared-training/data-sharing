@@ -19,12 +19,12 @@ Avoiding data disasters - Best practices in Research Data Management for the Bio
 ---
 # What about negative results?
 
-### Often unavailable
-### Share them too
-- https://riojournal.com/ RIO - Research Ideas and Outcomes - journal publishes all outputs of the research cycle
-![](images/rio.jpg)
-- Scientific data https://www.nature.com/sdata/ is a journal for descriptions of scientifically valuable datasets, and research that advances the sharing and reuse of scientific data
-- Pre-register your study in particular journal
+- Often unavailable
+- Share them too
+  - https://riojournal.com/ RIO - Research Ideas and Outcomes - journal publishes all outputs of the research cycle
+  ![](images/rio.jpg)
+  - Scientific data https://www.nature.com/sdata/ is a journal for descriptions of scientifically valuable datasets, and research that advances the sharing and reuse of scientific data
+  - Pre-register your study in particular journal
 
 
 ---
@@ -48,16 +48,16 @@ You must ensure:
 ---
 # Public good
 
-## "Publicly funded research data are a public good, produced in the public interest, which should be made openly available with as few restrictions as possible..."
+"Publicly funded research data are a public good, produced in the public interest, which should be made openly available with as few restrictions as possible..."
 
-## http://www.rcuk.ac.uk/research/datapolicy/
+http://www.rcuk.ac.uk/research/datapolicy/
 
 ![](images/researchcouncilsuk.jpg)
 
 ---
 # Making your publication Open Access
 
-## https://www.openaccess.cam.ac.uk/
+https://www.openaccess.cam.ac.uk/
 
 The Open Access Team will check your funder and journal policies and advise on how to comply with REF and other funder Open Access requirements.
 
@@ -66,7 +66,7 @@ The Open Access Team will check your funder and journal policies and advise on h
 ---
 # How to share data?
 
-## Deposit your data in suitable public data repositories and add a link to your data in your publication
+Deposit your data in suitable public data repositories and add a link to your data in your publication
 
 ![](images/warning.png) With exceptions for personal and sensitive data
 
