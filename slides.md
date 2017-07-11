@@ -1,4 +1,4 @@
-# Data Sharing Issues
+# Data Sharing
 
 Avoiding data disasters - Best practices in Research Data Management for the Biological Sciences
 
@@ -19,26 +19,24 @@ Avoiding data disasters - Best practices in Research Data Management for the Bio
 ---
 # What about negative results?
 
-- Often unavailable
-- Share them too
-  - https://riojournal.com/ RIO - Research Ideas and Outcomes - journal publishes all outputs of the research cycle
-  ![](images/rio.jpg) <!-- .element height="30%" width="30%" -->
-  - Scientific data https://www.nature.com/sdata/ is a journal for descriptions of scientifically valuable datasets, and research that advances the sharing and reuse of scientific data
-  - Pre-register your study in particular journal
+![](images/rio.jpg) <!-- .element height="30%" width="30%" -->
 
+- https://riojournal.com/ RIO - Research Ideas and Outcomes - journal publishes all outputs of the research cycle
+- Scientific data https://www.nature.com/sdata/ is a journal for descriptions of scientifically valuable datasets, and research that advances the sharing and reuse of scientific data
+- Pre-register your study in particular journal
 
 ---
 # Would you consider Pre-Print?
 
 http://www.biorxiv.org/
 
-![](images/biorxiv.png) <!-- .element height="60%" width="60%" -->
+![](images/biorxiv.png)
 
 By posting preprints on bioRxiv, authors are able to make their findings immediately available to the scientific community and receive feedback on draft manuscripts before they are submitted to journals.
 
 ---
 # Open Access policies to publications
-![](images/cruk.png) <!-- .element height="60%" width="60%" -->
+![](images/cruk.png)
 
 You must ensure:
 1. An electronic copy of final, published form of your paper is available on [Europe PubMed Central (Europe PMC)](https://europepmc.org/) as soon as possible and no later than 6 months after publication.
@@ -61,7 +59,7 @@ https://www.openaccess.cam.ac.uk/
 
 The Open Access Team will check your funder and journal policies and advise on how to comply with REF and other funder Open Access requirements.
 
-![](images/openaccess-cam.png)
+![](images/openaccess-cam.png) <!-- .element height="30%" width="30%" -->
 
 ---
 # How to share data?
