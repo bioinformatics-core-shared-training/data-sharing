@@ -1,6 +1,8 @@
 # Data Sharing
 
-Avoiding data disasters - Best practices in Research Data Management for the Biological Sciences
+Avoiding data disasters
+
+Best practices in Research Data Management for the Biological Sciences
 
 12 July 2017
 
@@ -22,6 +24,9 @@ Avoiding data disasters - Best practices in Research Data Management for the Bio
 ![](images/rio.jpg) <!-- .element height="30%" width="30%" -->
 
 - https://riojournal.com/ RIO - Research Ideas and Outcomes - journal publishes all outputs of the research cycle
+
+----
+
 - Scientific data https://www.nature.com/sdata/ is a journal for descriptions of scientifically valuable datasets, and research that advances the sharing and reuse of scientific data
 - Pre-register your study in particular journal
 
@@ -63,7 +68,7 @@ https://www.openaccess.cam.ac.uk/
 
 The Open Access Team will check your funder and journal policies and advise on how to comply with REF and other funder Open Access requirements.
 
-![](images/openaccess-cam.png) <!-- .element height="30%" width="30%" -->
+![](images/openaccess-cam.png) <!-- .element height="60%" width="60%" -->
 
 ---
 # How to share data?
