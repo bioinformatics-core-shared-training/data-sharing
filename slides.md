@@ -13,6 +13,7 @@ Best practices in Research Data Management for the Biological Sciences
 - Which data to share?
 - When to share?
 - How to share data?
+- Under which license?
 
 ---
 # Why sharing is important?
@@ -52,8 +53,8 @@ http://www.rcuk.ac.uk/research/datapolicy/
 # Which data to share?
 
 - publications
-  - results
-- raw data, results and figures
+  - results and figures
+- raw data
 - processes: methods used
 - codes: software and scripts
 
@@ -105,8 +106,23 @@ Deposit your data in suitable public data repositories and add a link to your da
 
 ![](images/warning.png) With exceptions for personal and sensitive data
 
-EBI data submission
-https://www.ebi.ac.uk/services
+----
+# Repository for datasets
+
+- Registry of Research Data Repositories http://www.re3data.org/
+- General purpose
+  - Zenodo
+  - figshare
+- Discipline specific
+  - EBI data submission https://www.ebi.ac.uk/services
+
+----
+# Repository for software
+
+- GitHub
+- GitLab
+- Bitbucket
+- Zenodo
 
 ----
 # Gather information early
@@ -117,7 +133,25 @@ https://www.ebi.ac.uk/services
 - Consider using and electronic notebook
 
 ---
+# Under which license?
 
+- Creative Commons licenses https://creativecommons.org/
+- Software licenses https://choosealicense.com/
+
+----
+# Creative Commons
+![](images/cclicenses.png)
+
+----
+# Software licenses
+![](images/choosealicense.png)
+
+---
+# Extras
+
+- ORCiD: Open Researcher and Contributor ID https://orcid.org/
+- Training and support http://www.data.cam.ac.uk/events/
+---
 Many thanks!
 
 ![](images/partyhat.png) <!-- .element height="30%" width="30%" -->
