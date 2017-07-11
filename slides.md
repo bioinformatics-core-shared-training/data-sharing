@@ -39,14 +39,13 @@ By posting preprints on bioRxiv, authors are able to make their findings immedia
 ![](images/cruk.png)
 
 You must ensure:
-1. An electronic copy of final, published form of your paper is available on [Europe PubMed Central (Europe PMC)](https://europepmc.org/) as soon as possible and no later than 6 months after publication.
 
----
+- An electronic copy of final, published form of your paper is available on [Europe PubMed Central (Europe PMC)](https://europepmc.org/) as soon as possible and no later than 6 months after publication.
 
-### License
+----
 
-2. If you've paid an article processing charge for the Europe PMC deposit, your paper must be published with a ![CC-BY](images/ccby.png) license, so that it may be freely copied and reused, providing that the original authors are properly credited. Other licenses will not be compliant with your Grant Conditions.
-3. The journal you publish in must be published by a publisher who has agreed to the [Wellcome Trust publisher requirements](https://wellcome.ac.uk/funding/managing-grant/publisher-requirements).
+- If you've paid an article processing charge for the Europe PMC deposit, your paper must be published with a ![CC-BY](images/ccby.png) license, so that it may be freely copied and reused, providing that the original authors are properly credited. Other licenses will not be compliant with your Grant Conditions.
+- The journal you publish in must be published by a publisher who has agreed to the [Wellcome Trust publisher requirements](https://wellcome.ac.uk/funding/managing-grant/publisher-requirements).
 
 ---
 # Public good
