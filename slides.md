@@ -52,34 +52,40 @@ http://www.rcuk.ac.uk/research/datapolicy/
 ---
 # Which data to share?
 
-- publications
+- papers
   - results and figures
-- raw data
-- processes: methods used
-- codes: software and scripts
+- raw data and associated metadata
+- methods used
+- software and scripts
 
 ----
 # Open Access journals
 
+![](images/doaj.jpg)
+
+https://doaj.org/
+
+DOAJ is a community-curated online directory that indexes and provides access to **high quality, open access, peer-reviewed journals**.
+
 ----
-# What about negative results?
+# What about non-positive results?
 
 ![](images/rio.jpg) <!-- .element height="30%" width="30%" -->
 
-- https://riojournal.com/ RIO - Research Ideas and Outcomes - journal publishes all outputs of the research cycle
+https://riojournal.com/
+
+RIO - Research Ideas and Outcomes - journal publishes all outputs of the research cycle
 
 ----
 
 - Scientific data https://www.nature.com/sdata/ is a journal for descriptions of scientifically valuable datasets, and research that advances the sharing and reuse of scientific data
-- Pre-register your study in particular journal
+
+- Pre-register your study in particular journals
 
 ---
 # When to share?
 
-- Pre-Print
-- After publication
-
-What about the associated data?
+![](images/closetoopendata.png)
 
 ----
 # Would you consider Pre-Print?
@@ -95,34 +101,39 @@ By posting preprints on bioRxiv, authors are able to make their findings immedia
 
 https://www.openaccess.cam.ac.uk/
 
-The Open Access Team will check your funder and journal policies and advise on how to comply with REF and other funder Open Access requirements.
+The Open Access Team will check your funder and journal policies and advise on how to comply with Open Access requirements.
 
 ![](images/openaccess-cam.png) <!-- .element height="60%" width="60%" -->
 
 ---
 # How to share data?
 
-Deposit your data in suitable public data repositories and add a link to your data in your publication
+Store, describe and deposit your data in **suitable** public data repositories and add a **link to your data** in your publication
 
-![](images/warning.png) With exceptions for personal and sensitive data
+:warning: with exceptions for personal and sensitive data: do not collect it! Use anonymized data instead.
+
+Unsure if your strategy is right? Contact UIS Information Management team at :postbox: mailto:informationmanagement@uis.cam.ac.uk
 
 ----
-# Repository for datasets
+# Repositories for datasets
 
-- Registry of Research Data Repositories http://www.re3data.org/
-- General purpose
-  - Zenodo
-  - figshare
+![](images/re3data.png)
+
 - Discipline specific
-  - EBI data submission https://www.ebi.ac.uk/services
+  - Registry of Research Data Repositories http://www.re3data.org/
+  - EMBL-EBI services https://www.ebi.ac.uk/services
+- General purpose
+  - Zenodo https://zenodo.org/
 
 ----
-# Repository for software
+# Repositories for software
 
-- GitHub
-- GitLab
-- Bitbucket
-- Zenodo
+[![](images/zenodo.png)](https://zenodo.org/)
+
+- GitHub https://github.com/
+- GitLab https://gitlab.com/
+- Bitbucket https://bitbucket.org
+- Zenodo https://zenodo.org/ assigns a **Digital Object Identifier (DOI)** to make the upload easily and uniquely citeable, with GitHub integration to enable tracking of each release.
 
 ----
 # Gather information early
@@ -151,9 +162,15 @@ Deposit your data in suitable public data repositories and add a link to your da
 
 - ORCiD: Open Researcher and Contributor ID https://orcid.org/
 - Training and support http://www.data.cam.ac.uk/events/
+
+---
+# Conclusion
+
+
+
 ---
 Many thanks!
 
-![](images/partyhat.png) <!-- .element height="30%" width="30%" -->
+:tada:
 
 Questions?
