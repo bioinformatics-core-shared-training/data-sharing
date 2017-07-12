@@ -33,11 +33,11 @@ Best practices in Research Data Management for the Biological Sciences
 
 You must ensure:
 
-- An electronic copy of final, published form of your paper is available on [Europe PubMed Central (Europe PMC)](https://europepmc.org/) as soon as possible and no later than 6 months after publication.
+- An electronic copy of final, published form of your paper is **available on [Europe PubMed Central (Europe PMC)](https://europepmc.org/)** as soon as possible and no later than 6 months after publication.
 
 ----
 
-- If you've paid an article processing charge for the Europe PMC deposit, your paper must be published with a ![CC-BY](images/ccby.png) license, so that it may be freely copied and reused, providing that the original authors are properly credited. Other licenses will not be compliant with your Grant Conditions.
+- If you've paid an article processing charge for the Europe PMC deposit, your paper must be **published with a ![CC-BY](images/ccby.png) license**, so that it may be freely copied and reused, providing that the original authors are properly credited. Other licenses will not be compliant with your Grant Conditions.
 - The journal you publish in must be published by a publisher who has agreed to the [Wellcome Trust publisher requirements](https://wellcome.ac.uk/funding/managing-grant/publisher-requirements).
 
 ----
@@ -50,7 +50,7 @@ http://www.data.cam.ac.uk/data-management-guide
 
 ----
 
-"Publicly funded research data are a public good, produced in the public interest, which should be made openly available with as few restrictions as possible..."
+"Publicly funded research data are a **public good**, produced in the public interest, which should be made **openly available** with as few restrictions as possible..."
 
 http://www.rcuk.ac.uk/research/datapolicy/
 
@@ -120,7 +120,7 @@ Store, describe and deposit your data in **suitable** public data repositories a
 
 ![](images/warning.png) with exceptions for personal and sensitive data: do not collect it! Use anonymized data instead.
 
-Unsure if your strategy is right? Contact UIS Information Management team at :postbox: mailto:informationmanagement@uis.cam.ac.uk
+Unsure if your strategy is right? Contact UIS Information Management team at mailto:informationmanagement@uis.cam.ac.uk
 
 ----
 # Repositories for datasets
@@ -136,18 +136,18 @@ Unsure if your strategy is right? Contact UIS Information Management team at :po
 ----
 # Repositories for software
 
-- GitHub https://github.com/
-- GitLab https://gitlab.com/
+- GitHub https://github.com
+- GitLab https://gitlab.com
 - Bitbucket https://bitbucket.org
 
 [![](images/zenodo.png)](https://zenodo.org/)
 
-- Zenodo https://zenodo.org/ assigns a **Digital Object Identifier (DOI)** to make the upload easily and uniquely citeable, with GitHub integration to enable tracking of each release.
+Zenodo https://zenodo.org/ assigns a **Digital Object Identifier (DOI)** to make the upload easily and uniquely citeable, with GitHub integration to enable tracking of each release.
 
 ----
 # Gather information early
 
-- Think of data submission early
+- Think of data submission from the start
 - Collect metadata before submission
 - Keep a ReadMe file about your project
 - Consider using an electronic notebook
