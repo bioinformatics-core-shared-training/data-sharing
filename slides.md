@@ -136,11 +136,12 @@ Unsure if your strategy is right? Contact UIS Information Management team at :po
 ----
 # Repositories for software
 
-[![](images/zenodo.png)](https://zenodo.org/)
-
 - GitHub https://github.com/
 - GitLab https://gitlab.com/
 - Bitbucket https://bitbucket.org
+
+[![](images/zenodo.png)](https://zenodo.org/)
+
 - Zenodo https://zenodo.org/ assigns a **Digital Object Identifier (DOI)** to make the upload easily and uniquely citeable, with GitHub integration to enable tracking of each release.
 
 ----
