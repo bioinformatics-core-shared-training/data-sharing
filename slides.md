@@ -110,7 +110,7 @@ The Open Access Team will check your funder and journal policies and advise on h
 
 Store, describe and deposit your data in **suitable** public data repositories and add a **link to your data** in your publication
 
-:warning: with exceptions for personal and sensitive data: do not collect it! Use anonymized data instead.
+![](images/warning.png) with exceptions for personal and sensitive data: do not collect it! Use anonymized data instead.
 
 Unsure if your strategy is right? Contact UIS Information Management team at :postbox: mailto:informationmanagement@uis.cam.ac.uk
 
@@ -166,11 +166,15 @@ Unsure if your strategy is right? Contact UIS Information Management team at :po
 ---
 # Conclusion
 
-
+- Sharing is essential for publicly funded research
+- Ideally most data should be shared
+- Share as early as possible
+- Using suitable repositories and DOI
+- Under Creative Commons or Open Source license
 
 ---
 Many thanks!
 
-:tada:
+![](images/partyhat.png) <!-- .element height="30%" width="30%" -->
 
 Questions?
