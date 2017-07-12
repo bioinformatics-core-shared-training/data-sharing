@@ -10,7 +10,7 @@ Best practices in Research Data Management for the Biological Sciences
 # Data Sharing
 
 - Why sharing is important?
-- Which data to share?
+- What data to share?
 - When to share?
 - How to share data?
 - Under which license?
@@ -41,7 +41,14 @@ You must ensure:
 - The journal you publish in must be published by a publisher who has agreed to the [Wellcome Trust publisher requirements](https://wellcome.ac.uk/funding/managing-grant/publisher-requirements).
 
 ----
-# Public good
+# Data Management plans
+
+Compulsory part of grant application
+
+http://www.data.cam.ac.uk/data-management-guide
+
+
+----
 
 "Publicly funded research data are a public good, produced in the public interest, which should be made openly available with as few restrictions as possible..."
 
@@ -50,10 +57,11 @@ http://www.rcuk.ac.uk/research/datapolicy/
 ![](images/researchcouncilsuk.jpg)
 
 ---
-# Which data to share?
+# What data to share?
 
 - papers
   - results and figures
+- processed data
 - raw data and associated metadata
 - methods used
 - software and scripts
@@ -141,7 +149,16 @@ Unsure if your strategy is right? Contact UIS Information Management team at :po
 - Think of data submission early
 - Collect metadata before submission
 - Keep a ReadMe file about your project
-- Consider using and electronic notebook
+- Consider using an electronic notebook
+
+----
+# Open Science Framework
+
+https://osf.io/
+
+Cloud-based management for your projects
+
+![](images/osf.png)
 
 ---
 # Under which license?
@@ -151,11 +168,11 @@ Unsure if your strategy is right? Contact UIS Information Management team at :po
 
 ----
 # Creative Commons
-![](images/cclicenses.png)
+[![](images/cclicenses.png)](https://creativecommons.org/)
 
 ----
 # Software licenses
-![](images/choosealicense.png)
+[![](images/choosealicense.png)](https://choosealicense.com/)
 
 ---
 # Extras
@@ -175,6 +192,6 @@ Unsure if your strategy is right? Contact UIS Information Management team at :po
 ---
 Many thanks!
 
-![](images/partyhat.png) <!-- .element height="30%" width="30%" -->
+![](images/partyhat.png) <!-- .element height="10%" width="10%" -->
 
 Questions?
