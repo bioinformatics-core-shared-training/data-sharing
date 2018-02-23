@@ -4,6 +4,10 @@ Avoiding data disasters
 
 Best practices in Research Data Management for the Biological Sciences
 
+Anne Pajon, CRUK Cambridge Institute
+
+23 February 2018
+
 ----
 # Data Sharing
 
