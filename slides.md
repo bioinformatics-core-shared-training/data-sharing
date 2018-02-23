@@ -127,11 +127,11 @@ The Open Access Team will check your funder and journal policies and advise on h
 ---
 # How to share data?
 
-Store, describe and deposit your data in **suitable** public data repositories and add a **link to your data** in your publication
+Store, describe and deposit your data in **suitable and trusted** public data repositories and add a **link to your data** in your publication
 
 ![](images/warning.png) with exceptions for personal and sensitive data: do not collect it! Use anonymized data instead.
 
-Unsure if your strategy is right? Contact UIS Information Management team at mailto:informationmanagement@uis.cam.ac.uk
+Unsure if your strategy is right? Contact UIS Information Management team at [informationmanagement@uis.cam.ac.uk](mailto:informationmanagement@uis.cam.ac.uk)
 
 ----
 # Repositories for datasets
