@@ -97,7 +97,7 @@ RIO - Research Ideas and Outcomes - journal publishes all outputs of the researc
 
 ----
 
-- Scientific data https://www.nature.com/sdata/ is a journal for descriptions of scientifically valuable datasets, and research that advances the sharing and reuse of scientific data
+- [Scientific Data](https://www.nature.com/sdata/) is a peer-reviewed, open-access journal for descriptions of scientifically valuable datasets, and research that advances the sharing and reuse of scientific data.
 
 - Pre-register your study in particular journals
 
