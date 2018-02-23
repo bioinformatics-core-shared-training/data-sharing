@@ -4,7 +4,12 @@ Avoiding data disasters
 
 Best practices in Research Data Management for the Biological Sciences
 
-12 July 2017
+----
+# Data Sharing
+
+- What data are you currently sharing?
+- When are you sharing? and with who?
+- How do you do it?
 
 ----
 # Data Sharing
