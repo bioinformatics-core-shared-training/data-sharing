@@ -23,4 +23,4 @@ Update `<title></title>` to fit the presentation
 
 Push the file to GitHub and turn on GitHub Pages on master branch.
 
-Go to url https://datachampcam.github.io/data-sharing/
+Go to url https://bioinformatics-core-shared-training.github.io/data-sharing/
