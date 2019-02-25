@@ -1,12 +1,12 @@
-# Data Sharing
+# Backup & Data Sharing
 
-Avoiding data disasters
+Managing your Reasearch Data
 
 Best practices in Research Data Management for the Biological Sciences
 
 Anne Pajon, CRUK Cambridge Institute
 
-23 February 2018
+26 February 2019
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
